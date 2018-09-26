@@ -8,8 +8,6 @@ This guide covers LightWare products that have the serial number `SXX-14501` and
 - SF02: http://ardupilot.org/copter/docs/common-rangefinder-sf02.html
 - SF40C: http://ardupilot.org/copter/docs/common-lightware-sf40c-objectavoidance.html
 
-> NOTE: The new SF40C (Manufactured after `July 2018`) does not yet support the Pixhawk out of the box.
-
 This guide has been tested with ArduPlane 3.9.1 and ArduCopter 3.5.7. If you are using the `PX4` stack instead of ArduPilot then this guide will still be useful for upgrading and configuring your LightWare device.
 
 If you have any questions or issues with this process please contact Robert at rob@lightware.co.za
@@ -20,7 +18,7 @@ Before attempting to connect with the Pixhawk we recommend performing a firmware
 
 > NOTE: The Upgrader tool only currently supports Windows at this time.
 
-1. Download the LightWare Upgrader tool here: http://support.lightware.co.za/LightWareUpgrader-1.11.0.rar
+1. Download the LightWare Upgrader tool here: http://support.lightware.co.za/LightWareUpgrader-1.12.0.rar
 2. Unzip the downloaded file to a location on your PC.
 3. Run the file `LightWareUpgrader.exe` in the unzipped folder.
 4. Connect your LightWare device via USB to your PC.
