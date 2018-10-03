@@ -92,7 +92,7 @@ You then need to setup the serial port and rangefinder parameters. If you have u
 
 ## I2C
 
-### Configuring the LW20/SF20
+### Configuring the SF11/C
 1. Use the LightWare Upgrader as outlined above to connect to your device.
 2. Once the correct COM port has been selected click `Manage`.
 3. Set `Startup mode` to `Wait for interface`. (Note: The Pixhawk will automatically initiate I2C mode on boot.)
@@ -119,7 +119,7 @@ You then need to configure the rangefinder parameters as shown below (this is do
 
 ## Serial UART
 
-### Configuring the LW20/SF20
+### Configuring the SF11/C
 The SF11/C serial mode works out of the box with no need to configure anything through the Upgrader, although we still recommend having the latest version of firmware installed.
 
 ### Wiring for Serial UART
