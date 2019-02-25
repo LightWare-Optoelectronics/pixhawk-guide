@@ -95,7 +95,6 @@ You then need to setup the serial port and rangefinder parameters. If you have u
 ### Configuring the SF11/C
 1. Use the LightWare Upgrader as outlined above to connect to your device.
 2. Once the correct COM port has been selected click `Manage`.
-3. Set `Startup mode` to `Wait for interface`. (Note: The Pixhawk will automatically initiate I2C mode on boot.)
 4. Set `Pixhawk I2C compatibility mode` to `On`.
 5. Click `Exit`.
 
