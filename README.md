@@ -18,7 +18,7 @@ Before attempting to connect with the Pixhawk we recommend performing a firmware
 
 > NOTE: The Upgrader tool only currently supports Windows at this time.
 
-1. Download the LightWare Upgrader tool here: http://support.lightware.co.za/LightWareUpgrader-1.27.0.rar
+1. Download the LightWare Upgrader tool here: http://support.lightware.co.za/beta/LightWareUpgrader-1.40.0.zip
 2. Unzip the downloaded file to a location on your PC.
 3. Run the file `LightWareUpgrader.exe` in the unzipped folder.
 4. Connect your LightWare device via USB to your PC.
